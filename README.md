@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/_Maverick_#9638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_Maverick_#9638" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/Ud6w45bXtK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_Maverick_#9638" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
