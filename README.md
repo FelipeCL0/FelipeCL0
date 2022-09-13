@@ -1,5 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou o Felipe</h1>
 <h3 align="center">Um aluno de Pensamento Computacional :brazil:</h3>
+#Estou estudando programação
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecl0&label=Profile%20views&color=0e75b6&style=flat" alt="felipecl0" /> </p>
 
