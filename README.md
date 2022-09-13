@@ -5,9 +5,7 @@ Estudante de programação
 
 :point_right: Linguagens:
 
-
 *JavaScript
-
 
 *C#
 
