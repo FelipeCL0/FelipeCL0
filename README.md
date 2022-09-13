@@ -1,6 +1,7 @@
-Sobre Mim
+Oi,:wave: eu sou o Felipe e estou estudando programação
 
-Oi,:wave: eu sou o Felipe
+Linguagens:
+*JavaScript
+*C#
 
-Estudante de programação 
 
