@@ -1,7 +1,7 @@
 Oi,:wave: eu sou o Felipe 
 
 
-Estudante de programação
+Estudante do 1 Ano de programação
 
 :point_right: Linguagens:
 
