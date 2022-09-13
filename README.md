@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecl0&label=Profile%20views&color=0e75b6&style=flat" alt="felipecl0" /> </p>
 
-<h3 align="left">Conecte comigo:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/Ud6w45bXtK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_Maverick_#9638" height="30" width="40" /></a>
 </p>
