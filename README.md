@@ -1,7 +1,7 @@
 Oi,:wave: eu sou o Felipe 
 
 
-:blue_book: Estudante do 1 Ano de programação
+:blue_book: Atualmente estou estudando no 1 Ano de Pensamento Computacional
 
 :point_right: Linguagens:
 
